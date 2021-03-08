@@ -1,2 +1,3 @@
 # hello-world
-my first repository learned from the official tutorial。
+Hi!
+this is  my first repository learned from the official tutorial.
